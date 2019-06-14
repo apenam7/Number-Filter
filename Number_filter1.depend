@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1555089496 source:c:\users\apena\onedrive\hp laptop\spring 2019\comp.1020 computing ii\programs\program 3\number_filter1\bit_flag.c
+	<stdio.h>
+	<stdlib.h>
+	"Bit_flag.h"
+	"status.h"
+
+1555088611 c:\users\apena\onedrive\hp laptop\spring 2019\comp.1020 computing ii\programs\program 3\number_filter1\bit_flag.h
+	"status.h"
+
+1555088643 c:\users\apena\onedrive\hp laptop\spring 2019\comp.1020 computing ii\programs\program 3\number_filter1\status.h
+
+1555088983 source:c:\users\apena\onedrive\hp laptop\spring 2019\comp.1020 computing ii\programs\program 3\number_filter1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bit_flag.h"
+
